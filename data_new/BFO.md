@@ -1,4 +1,4 @@
-## BFO - Basic Formal Ontology
+## BFO - Basic Formal Ontolofgy
 
 
  ## Radarplot 
